@@ -1,13 +1,12 @@
 # Php-Back-End
 
-# Desenvolvimento de cadastro e login con HTML5, CSS, javascript, PHP.
+# Development login form with HTML5, CSS, javascript, PHP.
 
-# Desenvolvimento de conexão com base de dados com PHP.
+# Development the database conexión with PHP.
 
-# Desenvolvimento de desarrollo e conexão para envio de E-mails com PHP.
+# Development of email sending with PHP.
 
-# Desenvolvimento de sistema de rotas com PHP.
+# Development of routing system with PHP.
 
-TEST:
+TEST Link for show the results:
 www.dragon-balance.tech/ls_php
-
