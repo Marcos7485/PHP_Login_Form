@@ -9,4 +9,4 @@
 # Development of routing system with PHP.
 
 TEST Link for show the results:
-www.dragon-balance.tech/ls_php
+dragon-balance.tech/ls_php
